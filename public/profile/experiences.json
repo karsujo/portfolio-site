@@ -1,0 +1,37 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer II",
+            "subtitle": "Aurigo",
+            "workType": "Full-time",
+            "workDescription": [
+                "Core engineer in the Mobile Research and Development (R&D) team for Aurigo’s flagship product, Masterworks",
+"Built complex features for the flagship app across Android, iOS, and Windows platforms using a custom-built JavaScript framework on NodeJS along with Cordova (TypeScript, HTML5/CSS3, SQL, NodeJS, Cordova)",
+"Reduced the average application page load time by **30%** using worker threads and web workers",
+"Designed and created core sync APIs in a multi-tiered application framework for large throughput traffic between mobile devices and the server (C#, .NET Core, Entity Framework, SQL Server)",
+"Created a novel device-specific encryption key generation algorithm based on SHA256, and integrated it with Android, resulting in a FedRAMP certification for the application and clearance for use by government agencies (Java, Android)",
+"Published apps, updates, and fixes to the Google Play Store, and monitored crash reports, usage metrics, and analytics",
+"Collaborated with UX Designers to modernise user experience, resulting in a modern UX compliant with WCAG 2.1 standards (JavaScript, HTML5/CSS3, NodeJS and SASS)",
+"Led design and development discussions (Agile/Scrum), and interviewed new members for the team"
+            ],
+            "dateText": "Mar 2021 - July 2022"
+        },
+        {
+            "title": "Software Engineer II",
+            "subtitle": "Epsilon",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on the flagship product, Agility Loyalty, used by leading US retail, financial and healthcare brands",
+"Key member in the development of a software platform titled MyStory for human resource management, which replaced a proprietary third-party solution (TrackStar) and saved the company 80,000$ in annual fees (C#, ASP.NET, Oracle, JavaScript)",
+"Defined and implemented performance-critical REST APIs for real-time payment transactions in online and point of sale systems, fine tuned for speed at scale (C#, .NET Core, Entity Framework, LINQ, Oracle)",
+"Optimised existing API solutions for better performance via multi-threading and server-side caching. Brought down the average API response time from 400ms to 300ms (25% reduction)",
+"Designed data ingestion and transformation (ETL) pipelines in Oracle and wrote complex PL-SQL, and tuned queries for large scale data processing.",
+"Minimised query execution time for critical jobs that took 6 hours, to 20 minutes (95% reduction) using PL-SQL parallel and bulk processing (Oracle, PL-SQL)",
+"Built an email integrator layer into the product for seamless integration with third party email providers such as SalesForce, SendGrid, Responsys and MailChimp. This new functionality boosted sales of the product in the APAC region and significantly reduced developer effort (C#, .NET Core, SQL Server)",
+"Followed Test-Driven Development (TDD), and performed unit, performance testing using (NUnit, Jmeter, Postman)",
+"Engaged in troubleshooting and remediating production and deployment issues, monitored logs during deployments and peak transaction seasons (AWS, Kibana)"
+            ],
+            "dateText": "July 2017 - Mar 2021"
+        }
+    ]
+}

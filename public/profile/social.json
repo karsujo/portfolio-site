@@ -2,14 +2,18 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://linkedin.com/kartshan"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/karsujo"
         },
         {
             "network" : "email",
+            "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "blog",
             "href": "mailto:test@test.com"
         }
     ]

@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Aug 2022 - Present",
+            "cardTitle": "M.S. Computer Science",
+            "cardSubtitle":"State University of New York at Binghamton",
+            "cardDetailedText": "GPA - 4",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2013 - June 2017",
+            "cardTitle": "B.E. Electronics And Communications Engineering",
+            "cardSubtitle":"PES Insitute Of Technology, Bangalore, India",
+            "cardDetailedText": "GPA - 3.4/4"
+        }
+    ]
+}

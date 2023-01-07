@@ -1,0 +1,95 @@
+{
+    "intro": "I have used a variety of languages, platforms and tools over the years:",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/cs1.png",
+                    "title": "C#"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML/CSS"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/sql.png",
+                    "title": "SQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/dotnet.png",
+                    "title": ".NET"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/android_new.png",
+                    "title": "Android"
+                },
+                {
+                    "icon": "images/skills/cordova.png",
+                    "title": "Cordova"
+                },
+                {
+                    "icon": "images/skills/oracle.png",
+                    "title": "Oracle"
+                }
+
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/vs.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/android-studio.png",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/vsts1.png",
+                    "title": "VSTS"
+                },
+                {
+                    "icon": "images/skills/aws1.jpg",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
+                }
+            ]
+    }
+]}

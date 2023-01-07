@@ -1,0 +1,35 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/rest_api.jpg",
+            "title": "REST API (.NET CORE)",
+            "bodyText": "A RESTful Web API solution built using .NET Core 3.1. Architectural Style : Domain Driven Design. Business Context: A retail book publisher.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/karsujo/aspnetcore-rest-api"
+                }
+            ],
+            "tags" : [
+                "REST API",
+                "C#",
+                ".NET Core"
+            ]
+        },
+        {
+            "image" : "images/projects/game_life.jpg",
+            "title": "Conway's Game of Life",
+            "bodyText": "A pure JavaScript implementation of Conway's Game of Life, pre-loaded with a few configurations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/karsujo/GameOfLife"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML/CSS"
+            ]
+        }
+    ]
+}

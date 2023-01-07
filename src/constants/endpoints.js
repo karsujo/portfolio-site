@@ -1,13 +1,13 @@
 const endpoints = {
-  navbar: 'profile/navbar.json',
-  routes: 'profile/routes.json',
-  home: 'profile/home.json',
-  social: 'profile/social.json',
-  about: 'profile/about.json',
-  skills: 'profile/skills.json',
-  education: 'profile/education.json',
-  experiences: 'profile/experiences.json',
-  projects: 'profile/projects.json',
+  navbar: 'portfolio-site/profile/navbar.json',
+  routes: 'portfolio-site/profile/routes.json',
+  home: 'portfolio-site/profile/home.json',
+  social: 'portfolio-site/profile/social.json',
+  about: 'portfolio-site/profile/about.json',
+  skills: 'portfolio-site/profile/skills.json',
+  education: 'portfolio-site/profile/education.json',
+  experiences: 'portfolio-site/profile/experiences.json',
+  projects: 'portfolio-site/profile/projects.json',
 };
 
 export default endpoints;

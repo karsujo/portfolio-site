@@ -2,7 +2,7 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/kartshan"
+            "href": "https://www.linkedin.com/in/kartshan/"
         },
         {
             "network" : "github",
@@ -10,11 +10,7 @@
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
-        },
-        {
-            "network" : "blog",
-            "href": "mailto:test@test.com"
+            "href": "karsujo@gmail.com"
         }
     ]
 }

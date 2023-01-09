@@ -1,0 +1,7 @@
+//TODO: Edit work ex -- make consise - use markdown
+//TODO: Add personal blog link
+//TODO: Remove 'blog'
+//TODO: Add button 'download resume'
+//TODO: Add button 'dev-blog (medium)'
+//TODO: Change card styles - education
+//TODO: Change running header [a Software etc]

@@ -30,6 +30,20 @@
                 "JavaScript",
                 "HTML/CSS"
             ]
+        },
+        {
+            "image" : "images/projects/scc17.jpg",
+            "title": "Social Media Advertisement Targetting using SCC",
+            "bodyText": "Social Media Advertisement Targetting using Strongly Connected Components Algorithm.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/karsujo/AdTargettingSCC"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
         }
     ]
 }

@@ -1,16 +1,20 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://www.linkedin.com/in/kartshan/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/karsujo"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:karsujo@gmail.com"
-        }
-    ]
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://www.linkedin.com/in/kartshan/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/karsujo"
+    },
+    {
+      "network": "email",
+      "href": "mailto:karsujo@gmail.com"
+    },
+    {
+      "network": "blog",
+      "href": "https://karthikshanmugam.wordpress.com/"
+    }
+  ]
 }

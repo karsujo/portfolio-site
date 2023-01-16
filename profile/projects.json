@@ -39,7 +39,7 @@
     {
       "image": "images/projects/word-processor.jpg",
       "title": "Word Processor",
-      "bodyText": "A simple word processor that counts word frequency and replaces words using the Visitor and Strategy Design patterns",
+      "bodyText": "A simple word processor that counts word frequency and replaces words using the Visitor and Strategy Design patterns.",
       "links": [
         {
           "text": "GitHub",
@@ -51,7 +51,7 @@
     {
       "image": "images/projects/btree.jpg",
       "title": "Word Processor",
-      "bodyText": "Java Console program to create automatic backups of student records using the Observer Pattern",
+      "bodyText": "Java Console program to create automatic backups of student records using the Observer Pattern.",
       "links": [
         {
           "text": "GitHub",

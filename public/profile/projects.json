@@ -44,6 +44,21 @@
             "tags" : [
                 "Python"
             ]
+        },
+        {
+            "image" : "images/projects/word-processor.jpg",
+            "title": "Word Processor",
+            "bodyText": "A simple word processor that counts word frequency and replaces words using the Visitor and Strategy Design patterns",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/karsujo/WordProcessor"
+                }
+            ],
+            "tags" : [
+                "Java"
+            ]
         }
+
     ]
 }

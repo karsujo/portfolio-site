@@ -1,64 +1,64 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/rest_api.jpg",
+      "title": "REST API (.NET CORE)",
+      "bodyText": "A RESTful Web API solution built using .NET Core 3.1. Architectural Style : Domain Driven Design. Business Context: A retail book publisher.",
+      "links": [
         {
-            "image" : "images/projects/rest_api.jpg",
-            "title": "REST API (.NET CORE)",
-            "bodyText": "A RESTful Web API solution built using .NET Core 3.1. Architectural Style : Domain Driven Design. Business Context: A retail book publisher.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/karsujo/aspnetcore-rest-api"
-                }
-            ],
-            "tags" : [
-                "REST API",
-                "C#",
-                ".NET Core"
-            ]
-        },
-        {
-            "image" : "images/projects/game_life.jpg",
-            "title": "Conway's Game of Life",
-            "bodyText": "A pure JavaScript implementation of Conway's Game of Life, pre-loaded with a few configurations.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/karsujo/GameOfLife"
-                }
-            ],
-            "tags" : [
-                "JavaScript",
-                "HTML/CSS"
-            ]
-        },
-        {
-            "image" : "images/projects/scc17.jpg",
-            "title": "Social Media Advertisement Targetting using SCC",
-            "bodyText": "Social Media Advertisement Targetting using Strongly Connected Components Algorithm.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/karsujo/AdTargettingSCC"
-                }
-            ],
-            "tags" : [
-                "Python"
-            ]
-        },
-        {
-            "image" : "images/projects/word-processor.jpg",
-            "title": "Word Processor",
-            "bodyText": "A simple word processor that counts word frequency and replaces words using the Visitor and Strategy Design patterns",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/karsujo/WordProcessor"
-                }
-            ],
-            "tags" : [
-                "Java"
-            ]
+          "text": "GitHub",
+          "href": "https://github.com/karsujo/aspnetcore-rest-api"
         }
-
-    ]
+      ],
+      "tags": ["REST API", "C#", ".NET Core"]
+    },
+    {
+      "image": "images/projects/game_life.jpg",
+      "title": "Conway's Game of Life",
+      "bodyText": "A pure JavaScript implementation of Conway's Game of Life, pre-loaded with a few configurations.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/karsujo/GameOfLife"
+        }
+      ],
+      "tags": ["JavaScript", "HTML/CSS"]
+    },
+    {
+      "image": "images/projects/scc17.jpg",
+      "title": "Social Media Advertisement Targetting using SCC",
+      "bodyText": "Social Media Advertisement Targetting using Strongly Connected Components Algorithm.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/karsujo/AdTargettingSCC"
+        }
+      ],
+      "tags": ["Python"]
+    },
+    {
+      "image": "images/projects/word-processor.jpg",
+      "title": "Word Processor",
+      "bodyText": "A simple word processor that counts word frequency and replaces words using the Visitor and Strategy Design patterns",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/karsujo/WordProcessor"
+        }
+      ],
+      "tags": ["Java"]
+    },
+    {
+      "image": "images/projects/btree.jpg",
+      "title": "Word Processor",
+      "bodyText": "Java Console program to create automatic backups of student records using the Observer Pattern",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/karsujo/RecordsBackup"
+        }
+      ],
+      "tags": ["Java"]
+    }
+  ]
 }

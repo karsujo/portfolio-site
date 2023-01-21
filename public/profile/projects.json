@@ -50,7 +50,7 @@
     },
     {
       "image": "images/projects/btree.jpg",
-      "title": "Word Processor",
+      "title": "Record Backup",
       "bodyText": "Java Console program to create automatic backups of student records using the Observer Pattern.",
       "links": [
         {
